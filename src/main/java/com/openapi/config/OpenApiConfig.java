@@ -19,10 +19,9 @@ public class OpenApiConfig {
             .title("Book Application API")
             .description("This is a sample Spring Boot RESTful service using springdoc-openapi and OpenAPI 3.")
             .termsOfService("terms")
-            .contact(new Contact().email("@selly.biz"))
+            .contact(new Contact().email("@codersite.dev"))
             .license(new License().name("GNU"))
             .version("1.0")
         );
   }
-
 }
